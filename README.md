@@ -2,7 +2,7 @@
 
 **Bash-based Linux monitoring with an event-driven AWS notification pipeline.** This project checks selected EC2 health signals, stores text reports in Amazon S3, and uses Amazon SNS and AWS Lambda to deliver a readable email notification.
 
-> **Project status:** Learning and portfolio project. Validate each pipeline stage before describing the complete notification flow as operational. The current health-check script covers disk usage, memory usage, and the SSH service. CPU stress has been used for testing, but automatic CPU-threshold detection must be implemented and verified in the regular monitoring script before it is claimed as a feature.
+> **Project status:** Validate each pipeline stage before describing the complete notification flow as operational. The current health-check script covers disk usage, memory usage, and the SSH service. CPU stress has been used for testing, but automatic CPU-threshold detection must be implemented and verified in the regular monitoring script before it is claimed as a feature.
 
 ## Architecture
 
