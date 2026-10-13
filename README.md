@@ -167,7 +167,7 @@ Exercise tests with clearly labeled test reports and disposable test services. A
 | Readable email | Lambda formats a plain-text message | Confirm the formatted topic uses protocol `email` and verify the message in the inbox |
 | Automated recovery | Not implemented | Do not claim self-healing or automatic remediation |
 
-## Screenshots and evidence
+## Screenshots 
 
 Add authentic, sanitized screenshots that prove each stage:
 
@@ -177,7 +177,7 @@ Add authentic, sanitized screenshots that prove each stage:
 - Lambda trigger and a successful CloudWatch invocation.
 - A received email showing the readable subject and separate report sections.
 
-Store evidence under the `evidence/` directories shown above. Redact sensitive account, identity, network, and email details before publishing.
+Store evidence under the `screenshot/` directories shown above. Redact sensitive account, identity, network, and email details before publishing.
 
 ## Troubleshooting and recovery
 
