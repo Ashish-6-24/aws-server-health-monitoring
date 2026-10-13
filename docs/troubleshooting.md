@@ -1,4 +1,4 @@
-# Server Health Monitoring and Alerting — Troubleshooting Runbook
+# Server Health Monitoring and Alerting Troubleshooting Runbook
 
 ## Triage workflow
 
